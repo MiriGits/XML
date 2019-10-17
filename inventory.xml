@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding "UTF-8"?>
+<!DOCTYPE note SYSTEM "inventory.dtd">
+<inventory>
+<book>
+  <title>All-In-One Dictionary/Thesaurus, Hardcover, 768 Pages</title>
+  <supplier>Innovative Office Solutions</supplier>
+  <partnumber>MERFSP0471</partnumber>
+  <manufacturername>ADVANTUS CORPORATION</manufacturername>
+  <manufacturerpartnumber>AVT-FSP0467</manufacturerpartnumber>
+  <systempackaging>EA</systempackaging>
+</book>
+<book>
+  <title>Merriam-Webster-s Collegiate Dictionary, 11th Edition, Hardcover, 1,664 Pages</title>
+  <supplier>Innovative Office Solutions</supplier>
+  <partnumber>MER8095</partnumber>
+  <manufacturername>ADVANTUS CORPORATION</manufacturername>
+  <manufacturerpartnumber>9</manufacturerpartnumber>
+  <systempackaging>EA</systempackaging>
+</book>    
+</inventory>
