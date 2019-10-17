@@ -1,8 +1,8 @@
 <!ELEMENT inventory (books+)>
-<!ELEMENT book (title, supplier, part number, manufacturer name, manufacturer part number, system packaging)
+<!ELEMENT book (title, supplier, PartNumber, ManufacturerName, ManufacturerPartNumber, SystemPackaging)
 <!ELEMENT title (#PCDATA)>
 <!ELEMENT supplier (#PCDATA)>
-<!ELEMENT part number (#PCDATA)>
-<!ELEMENT manufacturer name (#PCDATA)>
-<!ELEMENT manufacturer part number (#PCDATA)>
-<!ELEMENT system packaging (#PCDATA)>
+<!ELEMENT PartNumber (#PCDATA)>
+<!ELEMENT ManufacturerName (#PCDATA)>
+<!ELEMENT ManufacturerPartNumber (#PCDATA)>
+<!ELEMENT SystemPackaging (#PCDATA)>
