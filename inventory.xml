@@ -1,20 +1,30 @@
-<?xml version="1.0" encoding "UTF-8"?>
-<!DOCTYPE note SYSTEM "inventory.dtd">
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
 <inventory>
-<book>
+<book type="dictionary">
   <title>All-In-One Dictionary/Thesaurus, Hardcover, 768 Pages</title>
   <supplier>Innovative Office Solutions</supplier>
   <PartNumber>MERFSP0471</PartNumber>
-  <ManufacturerName>ADVANTUS CORPORATION</ManufacturerName>
-  <ManufacturerPartNumber>AVT-FSP0467</ManufacturerPartNumber>
+  <Manufacturer>ADVANTUS CORPORATION</Manufacturer>
+  <ManufacturerNumber>AVT-FSP0467</ManufacturerNumber>
   <SystemPackaging>EA</SystemPackaging>
+  <description>The features of a dictionary-meanings, pronunciations and usage guidance-are combined with the synonym and antonym features of a thesaurus.</description>
 </book>
-<book>
-  <title>Merriam-Webster-s Collegiate Dictionary, 11th Edition, Hardcover, 1,664 Pages</title>
-  <supplier>Innovative Office Solutions</supplier>
-  <PartNumber>MER8095</PartNumber>
-  <ManufacturerName>ADVANTUS CORPORATION</ManufacturerName>
-  <ManufacturerPartNumber>9</ManufacturerPartNumber>
+<book type="textbook">
+  <title>Repair Manual 9-1/10in.Hx5-9/10in.Wx1inD</title>
+  <supplier>W.W. Grainger, Inc.</supplier>
+  <PartNumber>40CH86</PartNumber>
+  <Manufacturer>INDUSTRIAL PRESS</Manufacturer>
+  <ManufacturerNumber>9780831134419</ManufacturerNumber>
   <SystemPackaging>EA</SystemPackaging>
+  <description>Repair Manual Complete Guide to Preventive and Predictive Maintenance</description>
 </book>
+<book type="reference">
+  <title>Reference Book 6-4/5in.Hx4-4/5in.W</title>
+  <supplier>W.W. Grainger, Inc.</supplier>
+  <PartNumber>40CH79</PartNumber>
+  <Manufacturer>INDUSTRIAL PRESS</Manufacturer>
+  <ManufacturerNumber>9780831134846</ManufacturerNumber>
+  <SystemPackaging>EA</SystemPackaging>
+  <description>AutoCAD Pocket Reference 6th Ed</description>
 </inventory>

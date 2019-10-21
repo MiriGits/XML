@@ -1,8 +1,10 @@
 <!ELEMENT inventory (books+)>
-<!ELEMENT book (title, supplier, PartNumber, ManufacturerName, ManufacturerPartNumber, SystemPackaging)
+<!ELEMENT book (title, supplier, PartNumber, Manufacturer, ManufacturerNumber, SystemPackaging, description)>
+<!ATTLIST book type (dictionary|textbook|reference) #REQUIRED>
 <!ELEMENT title (#PCDATA)>
 <!ELEMENT supplier (#PCDATA)>
 <!ELEMENT PartNumber (#PCDATA)>
-<!ELEMENT ManufacturerName (#PCDATA)>
-<!ELEMENT ManufacturerPartNumber (#PCDATA)>
+<!ELEMENT Manufacturer (#PCDATA)>
+<!ELEMENT ManufacturerNumber (#PCDATA)>
 <!ELEMENT SystemPackaging (#PCDATA)>
+<!ELEMENT description (#PCDATA)>
